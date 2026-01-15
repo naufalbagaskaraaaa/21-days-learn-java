@@ -6,5 +6,10 @@ public class Nopal_learn {
         System.out.println("i wish something big come to u my friends, thank u for helping me ini kapan ngodingnya fakkk - day 4");
         System.out.println("semoga besok bisa belajar dengan tanpa halangan - day 5");
         System.out.println("... - day 6");
+        System.out.println("hold me until i finf the nerve");
+
+        String uang="Rp100.000,00";
+
+        System.out.println(uang+" Pertama when yah?");
     }
 }
